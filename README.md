@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Shruti Ahirrao
+- 👀 I’m interested in software development and technology.
+- 🌱 I’m currently learning more about Java and various frameworks.
+- 💞️ I’m looking to collaborate on tech projects and software development.
+- 📫 You can reach me at ahirraoshruti31@gmail.com or connect with me on https://www.linkedin.com/in/shruti-ahirrao-5675a3220/.
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I enjoy working on innovative tech solutions!
